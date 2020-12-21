@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vibrate-the-world/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/vibrate-the-world/static/js/main.0b2339c1.chunk.js",
+    "main.js.map": "/vibrate-the-world/static/js/main.0b2339c1.chunk.js.map",
+    "runtime-main.js": "/vibrate-the-world/static/js/runtime-main.c902eba3.js",
+    "runtime-main.js.map": "/vibrate-the-world/static/js/runtime-main.c902eba3.js.map",
+    "static/js/2.4233deac.chunk.js": "/vibrate-the-world/static/js/2.4233deac.chunk.js",
+    "static/js/2.4233deac.chunk.js.map": "/vibrate-the-world/static/js/2.4233deac.chunk.js.map",
+    "static/js/3.7f0e64b4.chunk.js": "/vibrate-the-world/static/js/3.7f0e64b4.chunk.js",
+    "static/js/3.7f0e64b4.chunk.js.map": "/vibrate-the-world/static/js/3.7f0e64b4.chunk.js.map",
+    "index.html": "/vibrate-the-world/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/vibrate-the-world/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4233deac.chunk.js.LICENSE.txt": "/vibrate-the-world/static/js/2.4233deac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vibrate-the-world/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c902eba3.js",
+    "static/js/2.4233deac.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0b2339c1.chunk.js"
+  ]
+}
